@@ -124,7 +124,7 @@ helmet_violation_detector/
 │
 ├── training/               # Training scripts & notebooks
 ├── weights/                # ← Place your .pt files here
-├── assets/                 # Demo screenshots & banner
+├── demo/                 # Demo video & banner
 └── violations/             # Auto-generated violation evidence
 ```
 
