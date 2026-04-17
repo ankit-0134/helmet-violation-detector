@@ -1,0 +1,12 @@
+names:
+- motobike
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: motobike-detection-jhsdc
+  url: https://universe.roboflow.com/ankit-iit-kanpur/motobike-detection-jhsdc/dataset/1
+  version: 1
+  workspace: ankit-iit-kanpur
+test: ../test/images
+train: ../train/images
+val: ../valid/images

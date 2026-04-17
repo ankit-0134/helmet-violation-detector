@@ -1,0 +1,14 @@
+names:
+- LP
+- helmet
+- no helmet
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: helmet-lincense-plate-detection-gevlq-gin05
+  url: https://universe.roboflow.com/ankit-iit-kanpur/helmet-lincense-plate-detection-gevlq-gin05/dataset/1
+  version: 1
+  workspace: ankit-iit-kanpur
+test: /kaggle/input/datasets/ankitiitkanpur/helmet-lp-v2/helmet_lp/test/images
+train: /kaggle/input/datasets/ankitiitkanpur/helmet-lp-v2/helmet_lp/train/images
+val: /kaggle/input/datasets/ankitiitkanpur/helmet-lp-v2/helmet_lp/valid/images
